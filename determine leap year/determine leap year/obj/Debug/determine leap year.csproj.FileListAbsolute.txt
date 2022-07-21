@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\bin\Debug\determine_leap_year.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\bin\Debug\determine_leap_year.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\obj\Debug\determine leap year.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\obj\Debug\determine leap year.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\obj\Debug\determine leap year.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\obj\Debug\determine_leap_year.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\determine leap year\determine leap year\obj\Debug\determine_leap_year.pdb
