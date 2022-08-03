@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\bin\Debug\Primes.exe
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\bin\Debug\Primes.pdb
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\obj\Debug\Primes.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\obj\Debug\Primes.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\obj\Debug\Primes.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\obj\Debug\Primes.exe
+H:\programe\GitHub-project-warehouse-manager\c-cpp-algorithm\Primes\Primes\obj\Debug\Primes.pdb
