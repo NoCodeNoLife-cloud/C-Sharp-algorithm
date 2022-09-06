@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\bin\Debug\quick_sort.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\bin\Debug\quick_sort.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\obj\Debug\quick sort.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\obj\Debug\quick sort.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\obj\Debug\quick sort.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\obj\Debug\quick_sort.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-algorithm\sort\quick sort\quick sort\obj\Debug\quick_sort.pdb
